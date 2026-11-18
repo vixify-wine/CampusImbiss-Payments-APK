@@ -1,16 +1,16 @@
 # Campus Imbiss Payments (APK)
 
-Private Smart SDK app for **one** myPOS Ultra only.
+Private Smart-SDK-App für **ein** myPOS Ultra.
 
 - TID: `80592219`
-- Serial: `N960WC49417`
-- Not for public AppMarket listing on other terminals
-- Release APK is **unsigned** — myPOS must sign / push for production Ultra (PCI)
+- Seriennummer: `N960WC49417`
+- UI-Sprache: **Deutsch** (fest)
+- Design-Referenz: `Campus-Imbiss-Ultra-POS-Design.pdf`
 
 ## Download
 
-See [Releases](../../releases) for `CampusImbiss-Payments-1.0.0-unsigned.apk`.
+Siehe [Releases](../../releases) für die aktuelle unsigned APK.
 
-## Note
+## Hinweis
 
-This repository publishes the installable APK for myPOS private/custom install only. Application source is not included.
+Nur private/custom Installation für dieses Terminal. Kein öffentliches AppMarket-Listing.
